@@ -2,7 +2,7 @@
 // Copyright (c) 2023 Promineo Tech
 // Author:  Promineo Tech Academic Team
 // Subject:  Conditions & Loops Lab
-// JavaScript Week 04 Lab  
+// JavaScript Week 02 Lab  
 //
 
 
