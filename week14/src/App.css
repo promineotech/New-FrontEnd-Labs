@@ -1,0 +1,40 @@
+/* NAVBAR */
+
+.navBar {
+  width: 100vw;
+  margin-top: 0;
+  background-color: rgb(98, 107, 202);
+  color: white;
+  font-size: 24px;
+  padding: 5px;
+}
+
+.navBar ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: right;
+}
+
+.navBar ul li {
+  list-style: none;
+  margin-right: 1em;
+}
+
+.navBar ul li:hover {
+  color: rgba(0, 0, 0, 0.705);
+  text-decoration: underline;
+}
+
+.navBar ul li:active {
+  background-color: green;
+}
+
+/* WELCOME SECTION */
+
+.welcomeSection {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-color: #eeeeee;
+  padding: 1em;
+}
