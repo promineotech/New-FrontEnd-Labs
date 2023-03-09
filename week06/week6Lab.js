@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
-   Author:  Promineo Tech Academic Team
-   Subject:  JavaScript DevTools, Debugging, and Unit Tests
-   JavaScript Lab Week 6 */
+/*
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  JavaScript DevTools, Debugging, and Unit Tests
+  FE Lab Week 06
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:

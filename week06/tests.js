@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
-   Author:  Promineo Tech Academic Team
-   Subject:  JavaScript Mocha/Chai
-   JavaScript Lab Week 6 */
+/* 
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  JavaScript Mocha/Chai
+  FE Lab Week 06
+*/
 const expect = chai.expect
 const assert = chai.assert
 
@@ -48,16 +50,15 @@ describe('Week 6 Lab Tests:', () => {
       expect(addTwoNumbers(132780, 443378)).to.equal(576158)
     })
 
-   describe('Example Failed Test: Add Two Numbers', () => {
-    it('#Should fail', () => {
-      function sumOfTwoNumbers(num1, num2) {
-        num1 + num2
-      }
+    describe('Example Failed Test: Add Two Numbers', () => {
+      it('#Should fail', () => {
+        function sumOfTwoNumbers(num1, num2) {
+          num1 + num2
+        }
 
-      expect(sumOfTwoNumbers(2, 3)).to.equal(5)
+        expect(sumOfTwoNumbers(2, 3)).to.equal(5)
+      })
     })
-  })
-
   })
   /*--------------------------NEW TESTS BELOW-------------------------------*/
 })

@@ -1,7 +1,7 @@
 /* Copyright (c) 2023 Promineo Tech
    Author:  Promineo Tech Academic Team
    Subject:  CSS Lab
-   Front End Technologies Lab 8 - CSS (Questions)
+   FE Lab 08
 */
 /*----------------------------------------------------
 Key Terms:
@@ -49,8 +49,7 @@ PART 2: Using ID or CLASS Selectors:
 
 */
 
- /* ↓ YOUR CSS CODE HERE ↓  */
-
+/* ↓ YOUR CSS CODE HERE ↓  */
 
 /* 
 The asterisk (*) selector targets every element on the page. It is called the UNIVERSAL SELECTOR. Using a temporary red border around elements can prove to be helpful with visualizing the CSS box-model. Seeing all of the margins, borders, and padding of all 
@@ -58,129 +57,113 @@ of the elements on the page can help fix issues with spacing too, especially if 
 */
 
 /* ---UNIVERSAL SELECTOR--- */
-/* OPTIONAL ↓ REMOVE COMMENTS TO SEE RED BORDER:*/ 
+/* OPTIONAL ↓ REMOVE COMMENTS TO SEE RED BORDER:*/
 
-
-
-*{
+* {
   border: 1px solid red;
 }
 
-
-
-
-
 /* ---ELEMENT SELECTORS--- */
 
-html{
+html {
   font-family: Calibri, 'Trebuchet MS', sans-serif;
-  background: linear-gradient(180deg, 
-  #84daf5,
-  #89ffff,
-  #affffa,
-  #ffffff
-  );
+  background: linear-gradient(180deg, #84daf5, #89ffff, #affffa, #ffffff);
 }
-body{
-  
+body {
 }
 
-h1{
+h1 {
   text-align: center;
-  
 }
-h2{
+h2 {
   margin: 4rem auto 1rem auto;
   text-align: center;
 }
-p, li{
-  
+p,
+li {
 }
-ol{
+ol {
   padding: 20px;
 }
 
-ol li{
+ol li {
   padding: 10px 0;
 }
-img{
-  
+img {
 }
-figcaption{
+figcaption {
   text-align: center;
   font-weight: bold;
 }
-footer{
+footer {
   margin: 2rem 0 2rem 0;
 }
 
 /* ---CUSTOM CLASS NAME SELECTORS--- */
 
-.banner-div{
-  display:flex;
+.banner-div {
+  display: flex;
   justify-content: center;
 }
-#banner-long{
-  max-width:100%;
-  height:auto;
+#banner-long {
+  max-width: 100%;
+  height: auto;
 }
-#banner-short{
-  width:230px;
+#banner-short {
+  width: 230px;
 }
-.img-div{
+.img-div {
   display: flex;
   flex-wrap: wrap;
 }
 
-.tips-div{
+.tips-div {
   display: flex;
   flex-wrap: nowrap;
-  justify-content:start; 
+  justify-content: start;
 }
-.top-places-div{
+.top-places-div {
   max-width: 800px;
   margin: 5rem auto;
   color: rgb(253, 197, 132);
   padding: 1rem 2rem;
 }
-.top-places-div h2{
-  text-align:center;
+.top-places-div h2 {
+  text-align: center;
   margin: 1rem auto;
   font-weight: lighter;
 }
 
 /* ----- MEDIA QUERIES for RESPONSIVE DESIGN ----- */
 
-@media only screen and (max-width: 1500px){
-  .img-div img{
+@media only screen and (max-width: 1500px) {
+  .img-div img {
     width: 420px;
   }
 }
 
-@media only screen and (max-width: 1100px){
-  .tips-div{
-     
+@media only screen and (max-width: 1100px) {
+  .tips-div {
   }
 }
 
-@media only screen and (max-width: 500px){
-  body{
+@media only screen and (max-width: 500px) {
+  body {
     margin: 1rem;
   }
-  p, li{
+  p,
+  li {
     font-size: 16px;
   }
-  .img-div img{
+  .img-div img {
     width: 230px;
   }
-  .tips-div img{
+  .tips-div img {
     width: 230px;
   }
-  #banner-long{
-    
+  #banner-long {
   }
-  #banner-short{
-    
+  #banner-short {
   }
 }
 /* ------------------------- */

@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
-   Author:  Promineo Tech Academic Team
-   Subject:  Week 14: Props, State, Events
-   JavaScript Lab Week 14*/
+/* 
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  React Week 14 - Props, State, Events
+  FE Lab Week 14
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:
@@ -44,7 +46,7 @@
  * Step 1: Create a new component in your src folder called 'Appointments.js'
  *         Create the base format for a class based component in Appointments.js
  *
- * Step 2: Render your Appointments.js component in your App.js component.         
+ * Step 2: Render your Appointments.js component in your App.js component.
  *
  * Step 3: Let's hold our information in our App.js, and pass that information
  *         as a prop to our <Appointments/> component.
@@ -71,7 +73,7 @@
  *               },
  *             ]
  *
- * Step 4: Create a property on the <Appointments/> component called 'customers', 
+ * Step 4: Create a property on the <Appointments/> component called 'customers',
  *         set it equal to our variable, allCustomers
  *
  *         Does this look familiar? <img src="someUrl.com"/> ... src is also a prop/property.
@@ -103,8 +105,8 @@
  *
  * Step 1: Create a table with a thead/tbody. The thead should have a row with
  *         3 th elements: First Name, Last Name, and Appointment Time.
- * Step 2: Inside of your tbody, create a <tr> element that will .map() 
- *         over this.customersArray and return 
+ * Step 2: Inside of your tbody, create a <tr> element that will .map()
+ *         over this.customersArray and return
  *         3 <td> elements, one for firstName, lastName, and appointmentTime.
  *
  *         Check the README for a .map() hint.

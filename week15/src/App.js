@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
-   Author:  Promineo Tech Academic Team
-   Subject:  React Week 15 - REST, Fetch, Functional Components, and Best Practices
-   JS/React Lab Solution Week 15 */
+/* 
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  React Week 15 - REST, Fetch, Functional Components, and Best Practices
+  FE Lab Week 15
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:

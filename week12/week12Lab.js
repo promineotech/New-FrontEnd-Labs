@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
-   Author:  Promineo Tech Academic Team
-   Subject:  JavaScript CRUD Operations with JQuery
-   JavaScript Lab Week 12 */
+/* 
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  JavaScript CRUD Operations with JQuery
+  FE Lab Week 12
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:

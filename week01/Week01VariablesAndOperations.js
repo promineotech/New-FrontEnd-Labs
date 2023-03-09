@@ -1,9 +1,9 @@
-//
-// Copyright (c) 2023 Promineo Tech
-// Author:  Promineo Tech Academic Team
-// Subject:  Variables and Operations Lab
-// JavaScript Week 01 Lab  
-//
+/*
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  Variables and Operations Lab
+  FE 02 Lab  
+*/
 
 
 //	1. Number of Seats on a Plane:
@@ -82,6 +82,3 @@ console.log("Question 6:  Street Address");
 //  13.  Introduce a Customer:
 //			Print a line to the console that introduces the customer 
 //			including the name, and saying that they live at the address variable
-
-
-

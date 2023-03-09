@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
+/* 
+   Copyright (c) 2023 Promineo Tech
    Author:  Promineo Tech Academic Team
    Subject:  JavaScript ECMAScript 6 and Intermediate JavaScript
-   JavaScript Lab Week 4 */
+   FE Lab 04
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:

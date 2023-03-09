@@ -1,10 +1,12 @@
-/* Copyright (c) 2023 Promineo Tech
+/*
+   Copyright (c) 2023 Promineo Tech
    Author:  Promineo Tech Academic Team
-   Subject:  Arrays & Functions Lab
-   JavaScript Lab 3 - Arrays & Functions Lab Solution
+   Subject:  Arrays and Functions Lab
+   FE Lab 03
 */
+
 /* ----------------------------------------------------- */
-/* 
+
 /* Key Terms:
  * Element
  * Array 
@@ -18,6 +20,7 @@
  * Define a function using proper syntax 
  * 
 */
+
 /* ----------------------------------------------------- */
 // Please do not alter the existing code unless instructed to do so. 
 // Read the comments and add your code where it is specified for each question. 

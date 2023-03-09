@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
-   Author:  Promineo Tech Academic Team
-   Subject:  Week 13: Intro to React, Webpack, Components, and JSX 
-   JavaScript Lab Week 13*/
+/*
+  Copyright (c) 2023 Promineo Tech
+  Author:  Promineo Tech Academic Team
+  Subject:  React Week 13 - Intro to React, Webpack, Components, and JSX 
+  FE Lab Week 13
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:

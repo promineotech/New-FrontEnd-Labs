@@ -1,22 +1,24 @@
-import React from 'react';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
-} from 'react-router-dom';
+/* 
+   Copyright (c) 2023 Promineo Tech
+   Author:  Promineo Tech Academic Team
+   Subject:  React Router Boiler Plate 
+   FE Lab Week 16
+*/
 
-import Home from './Components/Home.js';
-import About from './Components/About.js';
+import React from 'react'
+import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom'
 
-/** Instruction: 
+import Home from './Components/Home.js'
+import About from './Components/About.js'
+
+/** Instruction:
  *    This is a boiler plate, or a "starting point" for React Router.
  *    This boiler plate uses React Router 5.3. You MUST read and use the documentation
  *       for React Router 5.3 if you decide to use this boiler plate.
- * 
+ *
  *    You are not required to use RR 5.3 for your final.
  *    You may use this boiler plate for your final if you want to.
- * 
+ *
  */
 
 /*------------------------ Creating a New Route ------------------------*/
@@ -24,11 +26,11 @@ import About from './Components/About.js';
 /**
  * Step 1: npm install to install your node_modules folder
  * Step 2: npm start inside this project directory to see how the boiler plate is already set up.
- * Step 3: Rename: the Home and About components & routes to something you want 
+ * Step 3: Rename: the Home and About components & routes to something you want
  *         to use for your final.
  * Step 4: Connect a third component so your nav now goes to three places instead
  *         of just two.
- * 
+ *
  *         Make sure for this new component you have done the following:
  *           - Create a new <li></li> element in your nav component.
  *           - Put a <Link> component in that element with a name, and a to attribute.
@@ -55,7 +57,7 @@ export default function App() {
           </ul>
         </nav>
 
-      {/* This is the logic that switches each path.
+        {/* This is the logic that switches each path.
           1. Give your Route component a path attribute so users know where they are.
               This is linked directly with "to attribute" on your nav above.
           2. Inside that Route component, render the component you want users
@@ -65,15 +67,15 @@ export default function App() {
           </Route>  */}
 
         <Switch>
-					<Route path="/about">
+          <Route path="/about">
             <About />
           </Route>
-           
-					<Route path="/">
+
+          <Route path="/">
             <Home />
           </Route>
-				</Switch>
+        </Switch>
       </div>
     </Router>
-  );
+  )
 }

@@ -1,7 +1,9 @@
-/* Copyright (c) 2023 Promineo Tech
+/* 
+   Copyright (c) 2023 Promineo Tech
    Author:  Promineo Tech Academic Team
    Subject:  JavaScript and DOM Manipulation 
-   JavaScript Lab Week 10*/
+   FE Lab Week 10
+*/
 
 /* ----------------------------------------------------- */
 // Key Term List:
