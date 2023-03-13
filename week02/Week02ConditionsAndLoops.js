@@ -47,7 +47,6 @@ Question 1: Driving the speed limit.. ? \n`);
 
 
 
-
 /*-------------------------------------------------------*/
 
 console.log(`--------------------------
@@ -67,7 +66,6 @@ Question 2: Is it time to wake up for work? \n`);
 
 
 
-
 /*-------------------------------------------------------*/
 
 console.log(`--------------------------
@@ -83,7 +81,6 @@ Question 3: Username & Password \n`);
  *	        - otherwise, print "Admin Access Denied"
  * 
  * ↓ YOUR CODE HERE ↓ */
-
 
 
 
@@ -107,7 +104,6 @@ Question 4: Student Class \n`);
 
 
 
-
 /*-------------------------------------------------------*/
 
 console.log(`--------------------------
@@ -116,12 +112,10 @@ Question 5: Loops! \n`);
 /**
  * Step 1: Write a "for loop" that will iterate backwards and print 10 to -10.
  * Step 2: Write a "do/while" loop that will prints 1 through 50.
- * Step 3: Modify the previous "do/while" loop 
- *         that prints the remainder (% / modulus) when the loop number is divided by 4.
+ * Step 3: Modify the previous "do/while" loop.
+ *         Print the iterator if the remainder (% // modulus) is 0 when divisible by 4.
  * 
  * ↓ YOUR CODE HERE ↓ */
-
-
 
 
 
@@ -137,11 +131,6 @@ Question 5: Debugging an infinite loop! \n`);
  * 
  * ↓ YOUR CODE HERE ↓ */
 
-  /* 
-   for(let i = 11; i > 10; i++){
-       console.log(i);
-   } 
-  */
 
 
 
