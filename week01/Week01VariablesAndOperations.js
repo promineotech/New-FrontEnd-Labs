@@ -2,83 +2,117 @@
   Copyright (c) 2023 Promineo Tech
   Author:  Promineo Tech Academic Team
   Subject:  Variables and Operations Lab
-  FE 02 Lab  
+  FE 01 Lab  
 */
 
+/** Key Terms:
+ *  JavaScript
+ *  GUI (Graphic User Interface)
+ *  CLI (Command Line Interface)
+ *  Variable
+ *  Data Types:
+ *   - String
+ *   - Number
+ *   - Boolean
+ *   - Array
+ *   - Undefined
+ *   - Object
+ *   - BigInt
+ *   - Null
+ *   - Symbol
+ *  Method
+ *  Git
+ *  Source Control
+ *  Operators
+ *  console.log()
+ * 
+*/
 
-//	1. Number of Seats on a Plane:
-//		Create a variable to hold the quantity of available plane seats left on a flight
+/* ----------------------------------------------------- */
+// Please do not alter the existing code unless instructed to do so. 
+// Read the comments and add your code where it is specified for each question. 
+/* ----------------------------------------------------- */
 
-		
-//	2. Cost of Groceries:
-//		Create a variable to hold the cost of groceries at checkout
+/*-------------------------------------------------------*/
 
+console.log(`--------------------------
+Question 1. Creating & 'console.log()'ing variables \n`);
 
-//	3. Middle Initial:
-//		Create a variable to hold a person's middle initial
+/**
+ * Instruction: Create a variable for each step, then print that variable 
+ *              to the console in the correct section.
+ *
+ * Step 1: Create a variable to hold the quantity of available seats left on a flight.
+ * Step 2: Create a variable to hold the cost of groceries at checkout
+ * Step 3: Create a variable to hold a person's middle initial
+ * Step 4: Is it Hot Outside?
+ *         Create a variable to hold a boolean, true if it's hot outside, false if it's not hot outside.
+ * Step 5: Create a variable to hold a customer's first name.
+ * Step 6: Create a variable to hold a street address.
+ * ↓ YOUR CODE HERE ↓ */
 
-
-//	4.  Is it Hot Outside?
-//			Create a variable to hold the following values:
-//				1. true if it's hot outside
-//				2. false if it's cold outside
-
-//	5.  First Name:
-//			Create a variable to hold a customer's first name
-
-
-//	6.  Street Address:
-//			Create a variable to hold a street address
-
-
-//	7.  Print Variables:
-//			Print all declared variables to the console
-console.log("Question 7:  Print all of the variables that you have declared")
-console.log("--------------------------------------------------------------")
-console.log("Question 1:  Number of Seats on a Plane");
-
-
-console.log("Question 2:  Cost of Groceries");
-
-
-console.log("Question 3:  Middle Initial");
-
-
-console.log("Question 4:  Is it Hot Outside?");
-
-
-console.log("Question 5:  First Name");
-
-
-console.log("Question 6:  Street Address");
-
-
-
-//	8.  Remove Plane Seats:
-//			A customer booked 2 plane seats, 
-//			remove 2 seats from the available seats variable
+console.log("Step 1:  Number of Seats on a Plane");
 
 
-//  9.  Buy a Candy Bar:
-//			Impulse candy bar purchase, add 2.15 to the grocery total
-//			(e.g. costOfGroceries = costOfGroceries + 2.15;)
+console.log("Step 2:  Cost of Groceries");
 
 
-//  10.  Fix a Birth Certificate:
-//			A birth certificate was printed incorrectly, 
-//			change the middle initial to something else
+console.log("Step 3:  Middle Initial");
 
 
-//  11.  Changing Seasons:
-//			The season has changed, update the hot outside variable 
-//			to be opposite of what it was
+console.log("Step 4:  Is it Hot Outside?");
 
 
-//   12.  Full Name: 
-//			Create a new variable called full name using the 
-//			customer's first name, the middle initial, and a last name of your choice
+console.log("Step 5:  First Name");
 
 
-//  13.  Introduce a Customer:
-//			Print a line to the console that introduces the customer 
-//			including the name, and saying that they live at the address variable
+console.log("Step 6:  Street Address");
+
+
+/*-------------------------------------------------------*/
+
+console.log(`--------------------------
+Question 2. Creating & 'console.log()'ing variables \n`);
+ 
+
+/** 
+ * Instruction: Use the variables we just created to solve the problems below.
+ *              Print your answers to the console.
+ * 
+ *
+ * */
+
+    console.log('Remove Plane Seats:')
+//	A customer booked 2 plane seats. Remove 2 seats from the available seats variable
+//  ↓ YOUR CODE HERE ↓
+
+
+    console.log('Buy a Candy Bar:')
+//	Impulse candy bar purchase! Add 2.15 to the grocery total
+//  ↓ YOUR CODE HERE ↓
+
+
+    console.log('Fix a Birth Certificate:')
+//	A birth certificate was printed incorrectly, change the middle initial to something else
+//  ↓ YOUR CODE HERE ↓
+
+
+    console.log('Changing Seasons:')
+//	The season has changed, update the hot outside variable	to be opposite of what it was
+//  ↓ YOUR CODE HERE ↓
+    
+
+    console.log('Full Name:')
+//	Create a new variable called full name using the customer's
+//  first name, the middle initial, and a last name of your choice
+//  ↓ YOUR CODE HERE ↓
+
+
+    console.log('Introduce a Customer:')
+//	Print a line to the console that introduces the customer 
+//	including the name, and saying that they live at the address variable
+//  ↓ YOUR CODE HERE ↓
+
+
+
+    console.log('-----------Finished------------')
