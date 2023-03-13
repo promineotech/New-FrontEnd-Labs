@@ -1,8 +1,8 @@
 /* 
-  Copyright (c) 2023 Promineo Tech
-  Author:  Promineo Tech Academic Team
-  Subject:  Conditions and Loops Lab
-  FE Lab 02
+   Copyright (c) 2023 Promineo Tech
+   Author:  Promineo Tech Academic Team
+   Subject:  Conditions and Loops Lab
+   FE Lab 02
 */
 
 /** Key Terms:
