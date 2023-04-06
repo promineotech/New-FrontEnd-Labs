@@ -34,7 +34,7 @@ Part 1: Create a form with only JavaScript`)
  * Step 1: Uncomment out the 'console.log(myForm)' at the bottom of the section.
  * Step 2: Using let, make a new variable called 'myForm'.
  * Step 3: Set it to be equal to document.createElement('form') // check the result in the console.
- * Step 4: Repeat steps 1 and 2, but with: myNameLabel, myNameInput
+ * Step 4: Repeat steps 2 and 3, but with: myLabel, myInput . This input will be used to enter a name.
  * Step 5: Set the .innerHTML of myLabel to be equal to 'Name'
  * Step 6: Append myLabel to myForm, then append myInput to myForm
  * Step 7: Append myForm to document.body
