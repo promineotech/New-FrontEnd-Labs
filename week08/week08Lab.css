@@ -42,8 +42,7 @@ PART 2: Using ID or CLASS Selectors:
 * Step 3: The caption for the top banner image is not under the image like it should be. Add a property to make the caption wrap under the image using flex.
 * Step 4: In the DIV that has the 4 images, justify the content by putting space around each image.
 * Step 5: Give the DIV that houses the "Top 5 Places to Visit..." a background color of rgb(0, 58, 66) and a border radius of 1 rem.
-* Step 6: The DIV that houses the "Top 5 Places to Visit..." has a child element that is an image. Using flex, center the image in the div.
-* Step 7: The DIV that houses the "Tips and Reccs" appears to be squished when the screen size is less than 1100 pixels. Add to the appropriate MEDIA QUERY a property that will allow the div to wrap down and then justify the contents to the center. Start by taking a look at the CSS for that DIV outside of the MEDIA QUERY to understand how the DIV is behaving.
+* Step 6: The DIV that houses the "Tips and Reccs" appears to be squished when the screen size is less than 1100 pixels. Add to the appropriate MEDIA QUERY a property that will allow the div to wrap down and then justify the contents to the center. Start by taking a look at the CSS for that DIV outside of the MEDIA QUERY to understand how the DIV is behaving.
 
 -----------------------------------------------------
 
